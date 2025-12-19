@@ -1,7 +1,7 @@
 # 🏋️ Fit Force – Fitness Tracker App
 
 <p align="center">
-  <img src="assets/images/fitforce-logo.png" alt="Fit Force Logo" width="180">
+  <img src="images/fitforce-logo.png" alt="Fit Force Logo" width="180">
 </p>
 
 ## 📌 Project Overview
@@ -17,7 +17,7 @@ The project focuses on real-world frontend development using clean JavaScript lo
 **Members:**     **GitHub Usernames**
 - Abdulhadi      -abdulhadishueb
 - Andy Kimathi   -andymkk
-- Abdullahi      -
+- Abdullahi      -abzulo
 - Abdirahman     -AbdiCHAN
 
 ---
